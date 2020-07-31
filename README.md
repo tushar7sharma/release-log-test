@@ -13,3 +13,4 @@ Dependencies should be managed using `pipenv` (`Pipfile`, and the `Pipfile.lock`
 
 # Pushed Test Commit Messages : 
 - Fixed bug that impacted server performance
+- Support for new clusters added
