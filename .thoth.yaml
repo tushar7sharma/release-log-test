@@ -22,6 +22,7 @@ managers:
         - goern
         - harshad16
         - pacospace
+        - tushar7sharma
       assignees:
         - sesheta
       labels: [bot]
