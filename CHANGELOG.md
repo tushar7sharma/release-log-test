@@ -12,3 +12,11 @@ all the things that you see...
 * Data bug fixed
 * Support for new clusters added
 * Fixedbug that impacted server performance
+
+## Release 1.1.0 (2020-07-31T13:58:21)
+* Release of version 1.0.0
+* Added tushar7sharma as a maintainer
+* Added support for new version of Openshift
+* Data bug fixed
+* Support for new clusters added
+* Fixedbug that impacted server performance
