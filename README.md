@@ -10,3 +10,6 @@ This is a Template for any Python based project, it contains what Project Thoth 
 6. if credentials are provided, Python module releases could be published to PyPI
 
 Dependencies should be managed using `pipenv` (`Pipfile`, and the `Pipfile.lock` could be created by `thamos advise`), `pip3` and a `requirements.txt` files could be used.
+
+# Pushed Test Commit Messages : 
+- Fixed bug that impacted server performance
