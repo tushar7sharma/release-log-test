@@ -15,3 +15,4 @@ Dependencies should be managed using `pipenv` (`Pipfile`, and the `Pipfile.lock`
 - Fixed bug that impacted server performance
 - Support for new clusters added
 - Data bug fixed
+- Added support for new version of Openshift
