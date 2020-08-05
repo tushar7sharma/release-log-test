@@ -39,3 +39,17 @@ all the things that you see...
 * Data bug fixed : corrective
 * Support for new clusters added : features
 * Fixedbug that impacted server performance : nonfunctional
+
+## Release 2.1.0 (2020-08-05T11:40:07)
+###features
+* Release of version 2.0.0
+* Release of version 1.2.0
+* Release of version 1.1.0
+* Release of version 1.0.0
+* Added tushar7sharma as a maintainer
+* Added support for new version of Openshift
+* Support for new clusters added
+###corrective
+* Data bug fixed
+###nonfunctional
+* Fixedbug that impacted server performance
