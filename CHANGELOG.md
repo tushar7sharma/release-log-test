@@ -29,3 +29,13 @@ all the things that you see...
 * Data bug fixed : corrective
 * Support for new clusters added : features
 * Fixedbug that impacted server performance : nonfunctional
+
+## Release 1.3.0 (2020-08-05T11:35:40)
+* Release of version 1.2.0 : features
+* Release of version 1.1.0 : features
+* Release of version 1.0.0 : features
+* Added tushar7sharma as a maintainer : features
+* Added support for new version of Openshift : features
+* Data bug fixed : corrective
+* Support for new clusters added : features
+* Fixedbug that impacted server performance : nonfunctional
