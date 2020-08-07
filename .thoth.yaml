@@ -27,6 +27,6 @@ managers:
         - sesheta
       labels: [bot]
       changelog_file: true
-      changelog_smart: false
+      changelog_smart: true
       changelog_classifier: fasttext
       changelog_format: cluster_similar
