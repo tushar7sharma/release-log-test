@@ -17,3 +17,4 @@ Dependencies should be managed using `pipenv` (`Pipfile`, and the `Pipfile.lock`
 - Data bug fixed
 - Added support for new version of Openshift
 - Performance improved
+- :pushpin: Automatic update of dependency thoth-common from 0.13.7 to 0.13.8
